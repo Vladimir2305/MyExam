@@ -1,0 +1,13 @@
+/*
+Theme Name: Тема Skokov
+Theme URI: http://geekhub.ck.ua
+Description: Эта тема экзамена 
+Version: 1.0
+Author: Владимир Курочкин
+Author URI: http://geekhub.ck.ua
+Tags: web, developers, frontend
+*/
+
+@import 'reset.css';
+@import 'css/bootstrap.css';
+@import 'css/styles.css';
